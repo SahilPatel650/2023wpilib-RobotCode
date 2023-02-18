@@ -16,8 +16,6 @@ import frc.robot.ConstantsConfiguration;
 
 public class SmartDashboard 
 {
-    private GenericEntry entries;
-
     private final double kP = ConstantsConfiguration.kP;
     private final double kI = ConstantsConfiguration.kI;
     private final double kD = ConstantsConfiguration.kD;
